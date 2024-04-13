@@ -12,11 +12,11 @@ Problem 1:
 - Provide Descriptive Statistics of both random variables (X) and (Y)
 
 Problem 2:
-- [ ] Develop a Scatter Diagram showing the relationship between X and Y
+- [x] Develop a Scatter Diagram showing the relationship between X and Y
 - What does the scatter diagram indicate about a relationship between the X and Y?
 
 Problem 3:
-- [ ] Introduce one (or more) control variables.
+- [x] Introduce one (or more) control variables.
 - Provide Descriptive Statistics for the control variable(s).
 
 Problem 4:
