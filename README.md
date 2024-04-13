@@ -20,7 +20,7 @@ Problem 3:
 - Provide Descriptive Statistics for the control variable(s).
 
 Problem 4:
-- [ ] Run regression model and provide ANOVA Output Tables:
+- [x] Run regression model and provide ANOVA Output Tables:
 - Develop the estimated regression equation by using the values of b0 and b1
 - Report SSE, SST, and SSR
 - Report the coefficient of determination R2. Comment on the goodness of fit.
