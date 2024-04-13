@@ -26,7 +26,7 @@ Problem 4:
 - Report the coefficient of determination R2. Comment on the goodness of fit.
 
 Problem 5:
-- [ ] Use the t test to test for significant relationship. Use α = 0.05
+- [x] Use the t test to test for significant relationship. Use α = 0.05
 - What is your conclusion: present and discuss your findings?
 
 Problem 6:
