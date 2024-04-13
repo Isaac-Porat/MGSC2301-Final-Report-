@@ -1,12 +1,3 @@
-Age 15: 82 rows
-Age 16: 104 rows
-Age 17: 98 rows
-Age 18: 82 rows
-Age 19: 24 rows
-Age 20: 3 rows
-Age 21: 1 rows
-Age 22: 1 rows
-
 Problem 1:
 - [x] Develop numerical summary of the data:
 - Provide Descriptive Statistics of both random variables (X) and (Y)
@@ -34,5 +25,5 @@ Problem 6:
 - What is your conclusion: present and discuss your findings?
 
 Problem 7:
-- [ ] Pick a random value(s) for X within the range of your data:
+- [x] Pick a random value(s) for X within the range of your data:
 - Build a 95% confidence and prediction intervals for E(yp) and yp
