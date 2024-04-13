@@ -30,7 +30,7 @@ Problem 5:
 - What is your conclusion: present and discuss your findings?
 
 Problem 6:
-- [ ] Compute the F value, and test for significance. Use α = 0.05. 
+- [x] Compute the F value, and test for significance. Use α = 0.05. 
 - What is your conclusion: present and discuss your findings?
 
 Problem 7:
